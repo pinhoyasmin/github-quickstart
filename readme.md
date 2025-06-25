@@ -31,15 +31,14 @@ Desafio de projeto com DIO e SANTANDER ⌨️💜.
       </td>
 			<td valign="top">
 			<h3>Arquivo inspirado na criação do professor Felipe Aguiar</h3>
-			<p>O desafio foi criar essa planilha(sheet), aplicando os conceitos adquiridos até aqui. Como estou aprendendo, segui o modelo do professor.</p>
-			<a href="https://1drv.ms/x/c/4AB7F4CF8829B3DA/EfitP8Egr2JCmYBVs0edPr8BvpHNY8BkX46QKH2RhIax9g?e=L56aRF">
- 			 	<img src="https://img.shields.io/badge/Ver%20Aula-E94D5F?style=for-the-badge" alt="Ver planilha">
+			<p>O desafio foi criar essa planilha(sheet), aplicando os conceitos adquiridos até aqui. Desenvolvi me inspirando no professor, mas adicionei a minha personalidade.</p>
+			<a href="https://1drv.ms/x/c/4AB7F4CF8829B3DA/EYD8z2i50adNreVZzPP5AEEBhBD4Rud4Ud8t1g8qYtq79A?e=8Fon8G">
+ 			 	<img src="https://img.shields.io/badge/Ver%20planilha-E94D5F?style=for-the-badge" alt="Ver planilha">
 			</a>
 			</td>
 		</tr>
 		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://1drv.ms/x/c/4AB7F4CF8829B3DA/EfitP8Egr2JCmYBVs0edPr8BvpHNY8BkX46QKH2RhIax9g?e=L56aRF">
-
-
+			
+<td 
+			
 
