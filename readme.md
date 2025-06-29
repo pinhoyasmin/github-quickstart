@@ -48,5 +48,5 @@ Desafios de projeto com DIO e SANTANDER ⌨️💜.
                          <td valign="top">
 			<h3>Arquivo inspirado na criação do professor Felipe Aguiar</h3>
 			<p>O desafio foi criar essa planilha(sheet) para organizar informações de imposto de renda, aplicando os conceitos adquiridos até aqui. Desenvolvi me inspirando no professor, mas adicionei a minha personalidade.</p>
-			<a href="[https://1drv.ms/x/c/4AB7F4CF8829B3DA/EYD8z2i50adNreVZzPP5AEEBhBD4Rud4Ud8t1g8qYtq79A?e=8Fon8G](https://1drv.ms/x/c/4AB7F4CF8829B3DA/EYCqooof4_xOiGtTLI-FVzABQSfzraCHw3j_6Cjr5ILzcQ?e=HrHUAi)">
+			<a href="https://1drv.ms/x/c/4AB7F4CF8829B3DA/EYD8z2i50adNreVZzPP5AEEBhBD4Rud4Ud8t1g8qYtq79A?e=8Fon8G](https://1drv.ms/x/c/4AB7F4CF8829B3DA/EYCqooof4_xOiGtTLI-FVzABQSfzraCHw3j_6Cjr5ILzcQ?e=HrHUAi">
  			 	<img src="https://img.shields.io/badge/Ver%20planilha-E94D5F?style=for-the-badge" alt="Ver planilha">
